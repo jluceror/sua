@@ -1,0 +1,4 @@
+[14-Nov-2023 01:32:24 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined method PHP_Email_Form::add_subject() in /home/complia2/public_html/forms/contact.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/complia2/public_html/forms/contact.php on line 38
